@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProyectosLinear</string>
+    <string name="titulo">EjercicioAndroid02</string>
+    <string name="nombre">Nombre</string>
+    <string name="inferior1">Followers</string>
+    <string name="inferior2">Following</string>
+    <string name="inferior3">Estrellita</string>
+    <string name="edpr">Edit Profile</string>
+    <string name="asunto">Asunto</string>
+    <string name="contenido">Contenido</string>
+    <string name="fecha">Fecha</string>
+    <string name="inicio">Inicio</string>
+    <string name="lin1">LinearLayout1</string>
+    <string name="lin2">LinearLayout2</string>
+    <string name="tab1">TableLayout1</string>
+    <string name="tab2">TableLayout2</string>
+    <string name="cons1">ConstrainLayout1</string>
+    <string name="cons2">ConstrainLayout2</string>
+
+
+</resources>
